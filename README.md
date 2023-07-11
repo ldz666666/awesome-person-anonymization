@@ -10,7 +10,8 @@ De-identification aims to hide the identity information in person images and vid
 2. <span id = "23002">[FALCO] [FALCO: Attribute-preserving Face Dataset Anonymization via Latent Code Optimization](https://openaccess.thecvf.com/content/CVPR2023/papers/Barattin_Attribute-Preserving_Face_Dataset_Anonymization_via_Latent_Code_Optimization_CVPR_2023_paper.pdf), `CVPR 2023`. [[Code](https://github.com/chi0tzp/FALCO)]
 
 ### 2021
-1. <span id = "21001">[Personal] [RiDDLE: Reversible and Diversified De-identification with Latent Encryptor](https://openaccess.thecvf.com/content/ICCV2021/papers/Cao_Personalized_and_Invertible_Face_De-Identification_by_Disentangled_Identity_Information_Manipulation_ICCV_2021_paper.pdf), `ICCV 2021`.
+1. <span id = "21001">[Personal] [Personalized and Invertible Face De-identification by Disentangled Identity
+Information Manipulation](https://openaccess.thecvf.com/content/ICCV2021/papers/Cao_Personalized_and_Invertible_Face_De-Identification_by_Disentangled_Identity_Information_Manipulation_ICCV_2021_paper.pdf), `ICCV 2021`.
 2.  <span id = "21002">[DeIdGAN] [Effective de-identification generative adversarial network for face anonymization](https://dl.acm.org/doi/10.1145/3474085.3475464), `MM 2021`. 
 
 ### 2020
