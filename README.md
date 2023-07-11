@@ -1,4 +1,4 @@
-# awesome-de-identifcation
+# awesome-person-de-identifcation
 
 De-identification aims to hide the identity information in person images and video stream. 
 
