@@ -1,5 +1,8 @@
 # awesome-de-identifcation
 
+De-identification aims to hide the identity information in person images and video stream. 
+
+
 ## Face
 
 ### 2023
@@ -16,7 +19,13 @@
 Deanonymization with Face Identity
 Transformers](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680715.pdf), `ECCV 2022`.[[Code](https://github.com/laoreja/face-identity-transformer)]
 
-
 ### 2019
 1. <span id = "19001">[Live] [Live Face De-identification in Video](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gafni_Live_Face_De-Identification_in_Video_ICCV_2019_paper.pdf) , `ICCV 2019`. 
 2. <span id = "19002">[DeepPrivacy] [DeepPrivacy: A Generative Adversarial Network for Face Anonymization](https://arxiv.org/abs/1909.04538) ,`ISVC 2019`. [[Code](https://github.com/hukkelas/DeepPrivacy)]
+
+### 2018
+1. <span id = "18001">[Openset] [Towards Open-Set Identity Preserving Face Synthesis](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bao_Towards_Open-Set_Identity_CVPR_2018_paper.pdf), `CVPR 2018`.
+2. <span id = "18002">[Natural] [Natural and Effective Obfuscation by Head Inpainting](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_Natural_and_Effective_CVPR_2018_paper.pdf), `CVPR 2018`.
+3. <span id = "18003">[Hybrid] [A Hybrid Model for Identity Obfuscation by
+Face Replacement](https://openaccess.thecvf.com/content_ECCV_2018/papers/Qianru_Sun_A_Hybrid_Model_ECCV_2018_paper.pdf), `ECCV 2018`.
+4. <span id = "18004">[Activity Preserving] [Activity Preserving Video Face Anonymization](https://arxiv.org/abs/1803.11556), `ECCV 2018`. [[Code](https://github.com/blacknwhite5/Activity-Preserving-Video-Face-Anonymization)]
