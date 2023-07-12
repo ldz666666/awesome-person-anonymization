@@ -1,6 +1,6 @@
-# awesome-person-de-identifcation
+# awesome-person-anonymization
 
-De-identification aims to hide the identity information in person images and video stream. 
+Person Anonymization / De-identification aims to hide the identity information in person images and video stream. 
 
 
 ## Face
