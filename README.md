@@ -8,7 +8,12 @@ Person Anonymization / De-identification aims to hide the identity information i
 ### 2023
 1. <span id = "23001">[RiDDLE] [RiDDLE: Reversible and Diversified De-identification with Latent Encryptor](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_RiDDLE_Reversible_and_Diversified_De-Identification_With_Latent_Encryptor_CVPR_2023_paper.pdf), `CVPR 2023`. [[Code](https://github.com/ldz666666/RiDDLE)]
 2. <span id = "23002">[FALCO] [FALCO: Attribute-preserving Face Dataset Anonymization via Latent Code Optimization](https://openaccess.thecvf.com/content/CVPR2023/papers/Barattin_Attribute-Preserving_Face_Dataset_Anonymization_via_Latent_Code_Optimization_CVPR_2023_paper.pdf), `CVPR 2023`. [[Code](https://github.com/chi0tzp/FALCO)]
-3. <span id = "23003">[3DAM-GAN][3D-Aware Adversarial Makeup Generation for Facial Privacy Protection](https://arxiv.org/abs/2306.14640v1), `TPAMI 2023`.
+3. <span id = "23003">[3DAM-GAN] [3D-Aware Adversarial Makeup Generation for Facial Privacy Protection](https://arxiv.org/abs/2306.14640v1), `TPAMI 2023`.
+4. <span id = "23004">[PRO-Face-S] [PRO-Face S: Privacy-preserving Reversible
+Obfuscation of Face Images via Secure Flow](https://arxiv.org/pdf/2307.09146.pdf), `arxiv 2023`.
+
+### 2022
+1. <span id = "22001">[PRO-Face] [PRO-Face: A Generic Framework for Privacy-preserving Recognizable Obfuscation of Face Images](https://openaccess.thecvf.com/content/ICCV2021/papers/Cao_Personalized_and_Invertible_Face_De-Identification_by_Disentangled_Identity_Information_Manipulation_ICCV_2021_paper.pdf), `MM 2022`.
 
 ### 2021
 1. <span id = "21001">[Personal] [Personalized and Invertible Face De-identification by Disentangled Identity
