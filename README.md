@@ -12,7 +12,7 @@ Person Anonymization / De-identification aims to hide the identity information i
 4. <span id = "23004">[PRO-Face-S] [PRO-Face S: Privacy-preserving Reversible
 Obfuscation of Face Images via Secure Flow](https://arxiv.org/pdf/2307.09146.pdf), `arxiv 2023`.
 5. <span id = "23005">[LDFA] [LDFA: Latent Diffusion Face Anonymization for Self-driving Applications](https://arxiv.org/abs/2302.08931), `arxiv 2023`.
-6. <span id = "23006">[DiffProtect] [DiffProtect: Generate Adversarial Examples with Diffusion Models for Facial Privacy Protection](https://arxiv.org/abs/2305.13625) , `arxiv 2023`.
+6. <span id = "23006">[DiffProtect] [DiffProtect: Generate Adversarial Examples with Diffusion Models for Facial Privacy Protection](https://arxiv.org/abs/2305.13625) , `arxiv 2023`. [[Code](https://github.com/joellliu/DiffProtect/)]
 
 ### 2022
 1. <span id = "22001">[PRO-Face] [PRO-Face: A Generic Framework for Privacy-preserving Recognizable Obfuscation of Face Images](https://openaccess.thecvf.com/content/ICCV2021/papers/Cao_Personalized_and_Invertible_Face_De-Identification_by_Disentangled_Identity_Information_Manipulation_ICCV_2021_paper.pdf), `MM 2022`.
