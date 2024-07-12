@@ -5,6 +5,9 @@ Person Anonymization / De-identification aims to hide the identity information i
 
 ## Face
 
+### 2024
+1. <span id = "24001">[ToonerGAN] [ToonerGAN: Reinforcing GANs for Obfuscating Automated Facial Indexing](https://openaccess.thecvf.com/content/CVPR2024/papers/Thakral_ToonerGAN_Reinforcing_GANs_for_Obfuscating_Automated_Facial_Indexing_CVPR_2024_paper.pdf), `CVPR 2024`. [[Website](https://iab-rubric.org/resources/biometric-datasets/face/toonset-dataset)]
+ 
 ### 2023
 1. <span id = "23001">[RiDDLE] [RiDDLE: Reversible and Diversified De-identification with Latent Encryptor](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_RiDDLE_Reversible_and_Diversified_De-Identification_With_Latent_Encryptor_CVPR_2023_paper.pdf), `CVPR 2023`. [[Code](https://github.com/ldz666666/RiDDLE)]
 2. <span id = "23002">[FALCO] [FALCO: Attribute-preserving Face Dataset Anonymization via Latent Code Optimization](https://openaccess.thecvf.com/content/CVPR2023/papers/Barattin_Attribute-Preserving_Face_Dataset_Anonymization_via_Latent_Code_Optimization_CVPR_2023_paper.pdf), `CVPR 2023`. [[Code](https://github.com/chi0tzp/FALCO)]
